@@ -1,0 +1,620 @@
+[
+    {
+        "provider": "AHN",
+        "tags": "ahn, dem, elevation, geophysical, lidar, netherlands",
+        "title": "AHN Netherlands 0.5m DEM, Interpolated",
+        "id": "AHN/AHN2_05M_INT"
+    },
+    {
+        "provider": "Biopama programme",
+        "tags": "biodiversity, biopama, conservation, crop, global, landuse, palm, plantation",
+        "title": "Global Map of Oil Palm Plantations",
+        "id": "BIOPAMA/GlobalOilPalm/v1"
+    },
+    {
+        "provider": "BNETD-CIGN",
+        "tags": "landcover, forest, classification, deforestation",
+        "title": "Cote d'Ivoire BNETD 2020 Land Cover Map",
+        "id": "BNETD/land_cover/v1"
+    },
+    {
+        "provider": "Beijng Normal University",
+        "tags": "bnu, dmsp, eog, imagery, lights, nighttime, ols, visible, yearly",
+        "title": "CCNL: Consistent And Corrected Nighttime Light Dataset from DMSP-OLS (1992-2013) v1",
+        "id": "BNU/FGS/CCNL/v1"
+    },
+    {
+        "provider": "NASA/CGIAR",
+        "tags": "cgiar, dem, elevation, geophysical, srtm, topography",
+        "title": "SRTM Digital Elevation Data Version 4",
+        "id": "CGIAR/SRTM90_V4"
+    },
+    {
+        "provider": "NASA SEDAC at the Center for International Earth Science Information Network",
+        "tags": "ciesin, gpw, nasa, population",
+        "title": "GPWv411: Water Mask (Gridded Population of the World Version 4.11)",
+        "id": "CIESIN/GPWv411/GPW_Water_Mask"
+    },
+    {
+        "provider": "EEA/Copernicus",
+        "tags": "clc, copernicus, corine, eea, esa, eu, landcover",
+        "title": "Copernicus CORINE Land Cover",
+        "id": "COPERNICUS/CORINE/V20/100m"
+    },
+    {
+        "provider": "Copernicus",
+        "tags": "copernicus, eea, esa, eu, landcover, proba, probav, vito",
+        "title": "Copernicus Global Land Cover Layers: CGLS-LC100 Collection 3",
+        "id": "COPERNICUS/Landcover/100m/Proba-V-C3/Global"
+    },
+    {
+        "provider": "European Union/ESA/Copernicus",
+        "tags": "backscatter, copernicus, esa, eu, polarization, radar, sar, sentinel",
+        "title": "Sentinel-1 SAR GRD: C-band Synthetic Aperture Radar Ground Range Detected, log scaling",
+        "id": "COPERNICUS/S1_GRD"
+    },
+    {
+        "provider": "European Union/ESA/Copernicus",
+        "tags": "copernicus, esa, eu, msi, radiance, sentinel",
+        "title": "Harmonized Sentinel-2 MSI: MultiSpectral Instrument, Level-1C",
+        "id": "COPERNICUS/S2_HARMONIZED"
+    },
+    {
+        "provider": "European Union/ESA/Copernicus",
+        "tags": "copernicus, esa, eu, msi, reflectance, sentinel, sr",
+        "title": "Harmonized Sentinel-2 MSI: MultiSpectral Instrument, Level-2A",
+        "id": "COPERNICUS/S2_SR_HARMONIZED"
+    },
+    {
+        "provider": "European Union/ESA/Copernicus",
+        "tags": "copernicus, esa, eu, olci, radiance, sentinel, toa",
+        "title": "Sentinel-3 OLCI EFR: Ocean and Land Color Instrument Earth Observation Full Resolution",
+        "id": "COPERNICUS/S3/OLCI"
+    },
+    {
+        "provider": "European Union/ESA/Copernicus",
+        "tags": "aai, aerosol, air_quality, copernicus, esa, eu, knmi, pollution, s5p, sentinel, tropomi, uvai",
+        "title": "Sentinel-5P NRTI AER AI: Near Real-Time UV Aerosol Index",
+        "id": "COPERNICUS/S5P/NRTI/L3_AER_AI"
+    },
+    {
+        "provider": "European Union/ESA/Copernicus",
+        "tags": "climate, cloud, copernicus, dlr, esa, eu, s5p, sentinel, tropomi",
+        "title": "Sentinel-5P NRTI CLOUD: Near Real-Time Cloud",
+        "id": "COPERNICUS/S5P/NRTI/L3_CLOUD"
+    },
+    {
+        "provider": "European Union/ESA/Copernicus",
+        "tags": "air_quality, copernicus, esa, eu, knmi, nitrogen_dioxide, no2, pollution, s5p, sentinel, tropomi",
+        "title": "Sentinel-5P NRTI NO2: Near Real-Time Nitrogen Dioxide",
+        "id": "COPERNICUS/S5P/NRTI/L3_NO2"
+    },
+    {
+        "provider": "European Union/ESA/Copernicus",
+        "tags": "climate, copernicus, esa, eu, knmi, methane, s5p, sentinel, sron, tropomi",
+        "title": "Sentinel-5P OFFL CH4: Offline Methane",
+        "id": "COPERNICUS/S5P/OFFL/L3_CH4"
+    },
+    {
+        "provider": "Spanish National Research Council (CSIC)",
+        "tags": "climate, climate_change, drought, evapotranspiration, global, monthly, palmer, precipitation, temperature",
+        "title": "SPEIbase: Standardised Precipitation-Evapotranspiration Index database, Version 2.9 [deprecated]",
+        "id": "CSIC/SPEI/2_9"
+    },
+    {
+        "provider": "CSIRO/SLGA",
+        "tags": "australia, csiro, digital_soil_mapping, globalsoilmap, slga, soil, soil_depth, tern",
+        "title": "SLGA: Soil and Landscape Grid of Australia (Soil Attributes)",
+        "id": "CSIRO/SLGA"
+    },
+    {
+        "provider": "Conservation Science Partners",
+        "tags": "aspect, csp, elevation, ergo, geophysical, global, landforms, slope, topography",
+        "title": "Global ALOS Landforms",
+        "id": "CSP/ERGo/1_0/Global/ALOS_landforms"
+    },
+    {
+        "provider": "Conservation Science Partners",
+        "tags": "aspect, csp, elevation, ergo, geophysical, global, landforms, slope, topography",
+        "title": "Global ALOS Topographic Diversity",
+        "id": "CSP/ERGo/1_0/Global/ALOS_topoDiversity"
+    },
+    {
+        "provider": "Conservation Science Partners",
+        "tags": "aspect, csp, elevation, ergo, geophysical, global, landforms, slope, topography",
+        "title": "Global SRTM Landforms",
+        "id": "CSP/ERGo/1_0/Global/SRTM_landforms"
+    },
+    {
+        "provider": "Conservation Science Partners",
+        "tags": "aspect, csp, elevation, ergo, geophysical, landforms, slope, topography, us",
+        "title": "US NED CHILI (Continuous Heat-Insolation Load Index)",
+        "id": "CSP/ERGo/1_0/US/CHILI"
+    },
+    {
+        "provider": "Conservation Science Partners",
+        "tags": "aspect, csp, elevation, ergo, geophysical, landforms, slope, topography, us",
+        "title": "US NED Landforms",
+        "id": "CSP/ERGo/1_0/US/landforms"
+    },
+    {
+        "provider": "Conservation Science Partners",
+        "tags": "aspect, csp, elevation, ergo, geophysical, landforms, slope, topography, us",
+        "title": "US Physiography",
+        "id": "CSP/ERGo/1_0/US/physiography"
+    },
+    {
+        "provider": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt (DLR)",
+        "tags": "landcover, landsat_derived, sentinel1_derived, settlement, urban",
+        "title": "World Settlement Footprint 2015",
+        "id": "DLR/WSF/WSF2015/v1"
+    },
+    {
+        "provider": "Oak Ridge National Laboratory",
+        "tags": "landscan, population, ukraine",
+        "title": "LandScan High Definition Data for Ukraine, January 2022",
+        "id": "DOE/ORNL/LandScan_HD/Ukraine_202201"
+    },
+    {
+        "provider": "ECMWF / Copernicus Climate Change Service",
+        "tags": "climate, copernicus, dewpoint, ecmwf, era5, precipitation, pressure, reanalysis, surface, temperature, wind",
+        "title": "ERA5 Daily Aggregates - Latest Climate Reanalysis Produced by ECMWF / Copernicus Climate Change Service",
+        "id": "ECMWF/ERA5/DAILY"
+    },
+    {
+        "provider": "Daily Aggregates: Google and Copernicus Climate Data Store",
+        "tags": "cds, climate, copernicus, ecmwf, era5_land, evaporation, heat, lakes, precipitation, pressure, radiation, reanalysis, runoff, snow, soil_water, temperature, vegetation, wind",
+        "title": "ERA5-Land Daily Aggregated - ECMWF Climate Reanalysis",
+        "id": "ECMWF/ERA5_LAND/DAILY_AGGR"
+    },
+    {
+        "provider": "Climate Data Store",
+        "tags": "cds, climate, copernicus, ecmwf, era5_land, evaporation, heat, lakes, precipitation, pressure, radiation, reanalysis, runoff, snow, soil_water, temperature, vegetation, wind",
+        "title": "ERA5-Land Monthly Averaged by Hour of Day - ECMWF Climate Reanalysis",
+        "id": "ECMWF/ERA5_LAND/MONTHLY_BY_HOUR"
+    },
+    {
+        "provider": "USGS",
+        "tags": "eo_1, hyperion, hyperspectral, usgs",
+        "title": "EO-1 Hyperion Hyperspectral Imager",
+        "id": "EO1/HYPERION"
+    },
+    {
+        "provider": "ESA",
+        "tags": "esa, globcover, landcover",
+        "title": "GlobCover: Global Land Cover Map",
+        "id": "ESA/GLOBCOVER_L4_200901_200912_V2_3"
+    },
+    {
+        "provider": "Estonia orthophotos",
+        "tags": "estonia, orthophoto",
+        "title": "Estonia mono orthophotos",
+        "id": "Estonia/Maamet/orthos/mono"
+    },
+    {
+        "provider": "Estonia orthophotos",
+        "tags": "estonia, low_flying, orthophoto",
+        "title": "Estonia mono low flying orthophotos",
+        "id": "Estonia/Maamet/orthos/mono_low_flying"
+    },
+    {
+        "provider": "Estonia orthophotos",
+        "tags": "estonia, orthophoto, rgb",
+        "title": "Estonia RGB orthophotos",
+        "id": "Estonia/Maamet/orthos/rgb"
+    },
+    {
+        "provider": "Estonia orthophotos",
+        "tags": "estonia, low_flying, orthophoto, rgb",
+        "title": "Estonia RGB low flying orthophotos",
+        "id": "Estonia/Maamet/orthos/rgb_low_flying"
+    },
+    {
+        "provider": "FAO UN",
+        "tags": "agriculture, climate_change, emissions, fao, ghg, organic_soils",
+        "title": "UN FAO Drained Organic Soils Area (Annual) 1.0",
+        "id": "FAO/GHG/1/DROSA_A"
+    },
+    {
+        "provider": "FAO UN",
+        "tags": "agriculture, climate_change, emissions, fao, ghg, organic_soils",
+        "title": "Drained Organic Soils Emissions (Annual) 1.0",
+        "id": "FAO/GHG/1/DROSE_A"
+    },
+    {
+        "provider": "FAO Forestry Division (FPP 1km)",
+        "tags": "agriculture, fao, forest, global, population, rural_area",
+        "title": "Forest proximate people (FPP) 1.0",
+        "id": "FAO/SOFO/1/FPP"
+    },
+    {
+        "provider": "FAO Forestry Division (TPP 500m cropland)",
+        "tags": "agriculture, fao, forest, global, population, rural_area",
+        "title": "Tree proximate people (TPP) 1.0",
+        "id": "FAO/SOFO/1/TPP"
+    },
+    {
+        "provider": "FAO UN",
+        "tags": "agriculture, fao, wapor, water",
+        "title": "WAPOR Actual Evapotranspiration and Interception 2.0",
+        "id": "FAO/WAPOR/2/L1_AETI_D"
+    },
+    {
+        "provider": "FAO UN",
+        "tags": "agriculture, fao, wapor, water",
+        "title": "WAPOR Dekadal Evaporation 2.0",
+        "id": "FAO/WAPOR/2/L1_E_D"
+    },
+    {
+        "provider": "FAO UN",
+        "tags": "agriculture, fao, wapor, water",
+        "title": "WAPOR Dekadal Reference Evapotranspiration 2.0",
+        "id": "FAO/WAPOR/2/L1_RET_D"
+    },
+    {
+        "provider": "FAO UN",
+        "tags": "agriculture, fao, wapor, water",
+        "title": "WAPOR Daily Reference Evapotranspiration 2.0",
+        "id": "FAO/WAPOR/2/L1_RET_E"
+    },
+    {
+        "provider": "NASA / LANCE / EOSDIS",
+        "tags": "eosdis, fire, firms, geophysical, hotspot, lance, modis, nasa, thermal",
+        "title": "FIRMS: Fire Information for Resource Management System",
+        "id": "FIRMS"
+    },
+    {
+        "provider": "NLS orthophotos",
+        "tags": "falsecolor, finland, mavi, nrg, orthophoto",
+        "title": "Finland NRG NLS orthophotos 50 cm by Mavi",
+        "id": "Finland/MAVI/VV/50cm"
+    },
+    {
+        "provider": "NASA LP DAAC at the USGS EROS Center",
+        "tags": "glcf, landsat_derived, nasa, umd, water",
+        "title": "GLCF: Landsat Global Inland Water",
+        "id": "GLCF/GLS_WATER"
+    },
+    {
+        "provider": "Cloud to Street (C2S) / Dartmouth Flood Observatory (DFO)",
+        "tags": "c2s, cloudtostreet, dartmouth, dfo, flood, gfd, inundation, surface, water",
+        "title": "Global Flood Database v1 (2000-2018)",
+        "id": "GLOBAL_FLOOD_DB/MODIS_EVENTS/V1"
+    },
+    {
+        "provider": "World Resources Institute",
+        "tags": "global, google, landcover, landuse, nrt, sentinel2_derived",
+        "title": "Dynamic World V1",
+        "id": "GOOGLE/DYNAMICWORLD/V1"
+    },
+    {
+        "provider": "University of California Merced",
+        "tags": "climate, climatic_water_balance, conus, crop, drought, eddi, evapotranspiration, geophysical, gridmet, merced, metdata, palmer, pdsi, precipitation, spei, spi",
+        "title": "GRIDMET DROUGHT: CONUS Drought Indices",
+        "id": "GRIDMET/DROUGHT"
+    },
+    {
+        "provider": "Brandenburg orthophotos",
+        "tags": "brandenburg, germany, orthophoto, rgbn",
+        "title": "Brandenburg (Germany) RGBN orthophotos 20 cm",
+        "id": "Germany/Brandenburg/orthos/20cm"
+    },
+    {
+        "provider": "NOPP",
+        "tags": "elevation, hycom, nopp, ocean, ssh, water",
+        "title": "HYCOM: Hybrid Coordinate Ocean Model, Sea Surface Elevation",
+        "id": "HYCOM/sea_surface_elevation"
+    },
+    {
+        "provider": "University of California Merced",
+        "tags": "climate, fireburning, gridmet, humidity, merced, metdata, nfdrs, precipitation, radiation, temperature, wind",
+        "title": "GRIDMET: University of Idaho Gridded Surface Meteorological Dataset",
+        "id": "IDAHO_EPSCOR/GRIDMET"
+    },
+    {
+        "provider": "University of California Merced",
+        "tags": "climate, drought, evapotranspiration, geophysical, global, merced, monthly, palmer, pdsi, precipitation, runoff, temperature, vapor, wind",
+        "title": "TerraClimate:  Monthly Climate and Climatic Water Balance for Global Terrestrial Surfaces, University of Idaho",
+        "id": "IDAHO_EPSCOR/TERRACLIMATE"
+    },
+    {
+        "provider": "IGN",
+        "tags": "dem, elevation, geophysical",
+        "title": "RGE ALTI: IGN RGE ALTI Digital Elevation 1m",
+        "id": "IGN/RGE_ALTI/1M/2_0"
+    },
+    {
+        "provider": "JAXA Earth Observation Research Center",
+        "tags": "alos, avnir_2, eorc, jaxa, orthophoto, visible",
+        "title": "ALOS/AVNIR-2 ORI",
+        "id": "JAXA/ALOS/AVNIR-2/ORI"
+    },
+    {
+        "provider": "JAXA Earth Observation Research Center",
+        "tags": "alos, dem, elevation, geophysical, jaxa, topography",
+        "title": "ALOS DSM: Global 30m  v3.2",
+        "id": "JAXA/ALOS/AW3D30/V3_2"
+    },
+    {
+        "provider": "JAXA EORC",
+        "tags": "alos, alos2, eroc, jaxa, palsar, palsar2, sar",
+        "title": "Global PALSAR-2/PALSAR Yearly Mosaic, version 2",
+        "id": "JAXA/ALOS/PALSAR/YEARLY/SAR_EPOCH"
+    },
+    {
+        "provider": "Global Change Observation Mission (GCOM)",
+        "tags": "climate, g_portal, gcom, gcom_c, jaxa, land, land_surface_temperature, lst",
+        "title": "GCOM-C/SGLI L3 Land Surface Temperature (V3)",
+        "id": "JAXA/GCOM-C/L3/LAND/LST/V3"
+    },
+    {
+        "provider": "Joint Research Centre, European Commission",
+        "tags": "eudr, forest, jrc",
+        "title": "EC JRC global map of forest cover 2020, V1 [deprecated]",
+        "id": "JRC/GFC2020/V1"
+    },
+    {
+        "provider": "K. N. Toosi University of Technology LiDAR Lab",
+        "tags": "iran, kntu, landcover",
+        "title": "Iran Land Cover Map v1 13-class (2017)",
+        "id": "KNTU/LiDARLab/IranLandCover/V1"
+    },
+    {
+        "provider": "U.S. Department of Agriculture's (USDA), U.S. Forest Service (USFS), U.S.\nDepartment of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
+        "tags": "doi, fire, landfire, nature_conservancy, usda, usgs, vegetation, wildfire",
+        "title": "LANDFIRE FRG (Fire Regime Groups) v1.2.0",
+        "id": "LANDFIRE/Fire/FRG/v1_2_0"
+    },
+    {
+        "provider": "U.S. Department of Agriculture's (USDA), U.S. Forest Service (USFS), U.S.\nDepartment of the Interior's Geological Survey (USGS), and The Nature Conservancy.",
+        "tags": "doi, fire, landfire, nature_conservancy, usda, usgs, vegetation, wildfire",
+        "title": "LANDFIRE ESP CONUS (Environmental Site Potential) v1.2.0",
+        "id": "LANDFIRE/Vegetation/ESP/v1_2_0/CONUS"
+    },
+    {
+        "provider": "Google",
+        "tags": "landsat, ndvi, usgs",
+        "title": "Landsat Collection 2 Tier 1 Level 2 8-Day NDVI Composite",
+        "id": "LANDSAT/COMPOSITES/C02/T1_L2_8DAY_NDVI"
+    },
+    {
+        "provider": "Google",
+        "tags": "landsat, ndvi, usgs",
+        "title": "Landsat Collection 2 Tier 1 Level 2 32-Day NDVI Composite",
+        "id": "LANDSAT/COMPOSITES/C02/T1_L2_32DAY_NDVI"
+    },
+    {
+        "provider": "USGS",
+        "tags": "c2, global, l8, landsat, lc8, oli_tirs, radiance, t1, tier1, usgs",
+        "title": "USGS Landsat 8 Collection 2 Tier 1 Raw Scenes",
+        "id": "LANDSAT/LC08/C02/T1"
+    },
+    {
+        "provider": "USGS",
+        "tags": "cfmask, cloud, fmask, global, l8sr, landsat, lasrc, lc08, lst, reflectance, sr, usgs",
+        "title": "USGS Landsat 8 Level 2, Collection 2, Tier 1",
+        "id": "LANDSAT/LC08/C02/T1_L2"
+    },
+    {
+        "provider": "USGS",
+        "tags": "c2, global, l8, landsat, lc8, nrt, oli_tirs, radiance, rt, t1, tier1, usgs",
+        "title": "USGS Landsat 8 Collection 2 Tier 1 and Real-Time data Raw Scenes",
+        "id": "LANDSAT/LC08/C02/T1_RT"
+    },
+    {
+        "provider": "USGS/Google",
+        "tags": "c2, global, l8, landsat, lc8, toa, usgs",
+        "title": "USGS Landsat 8 Collection 2 Tier 1 and Real-Time data TOA Reflectance",
+        "id": "LANDSAT/LC08/C02/T1_RT_TOA"
+    },
+    {
+        "provider": "USGS/Google",
+        "tags": "c2, global, landsat, toa, usgs",
+        "title": "USGS Landsat 8 Collection 2 Tier 1 TOA Reflectance",
+        "id": "LANDSAT/LC08/C02/T1_TOA"
+    },
+    {
+        "provider": "USGS",
+        "tags": "c2, global, l9, landsat, lc9, oli_tirs, radiance, t1, tier1, usgs",
+        "title": "USGS Landsat 9 Collection 2 Tier 1 Raw Scenes",
+        "id": "LANDSAT/LC09/C02/T1"
+    },
+    {
+        "provider": "USGS",
+        "tags": "cfmask, cloud, fmask, global, l9sr, landsat, lasrc, lc09, lst, reflectance, sr, usgs",
+        "title": "USGS Landsat 9 Level 2, Collection 2, Tier 1",
+        "id": "LANDSAT/LC09/C02/T1_L2"
+    },
+    {
+        "provider": "USGS/Google",
+        "tags": "c2, global, landsat, toa, usgs",
+        "title": "USGS Landsat 9 Collection 2 Tier 1 TOA Reflectance",
+        "id": "LANDSAT/LC09/C02/T1_TOA"
+    },
+    {
+        "provider": "USGS",
+        "tags": "c2, global, l9, landsat, lc9, oli_tirs, radiance, t2, tier2, usgs",
+        "title": "USGS Landsat 9 Collection 2 Tier 2 Raw Scenes",
+        "id": "LANDSAT/LC09/C02/T2"
+    },
+    {
+        "provider": "USGS",
+        "tags": "cfmask, cloud, fmask, global, l9sr, landsat, lasrc, lc09, lst, reflectance, sr, usgs",
+        "title": "USGS Landsat 9 Level 2, Collection 2, Tier 2",
+        "id": "LANDSAT/LC09/C02/T2_L2"
+    },
+    {
+        "provider": "NASA SEDAC at the Center for International Earth Science Information Network",
+        "tags": "annual, ciesin, global, landsat_derived, mangrove, nasa, usgs",
+        "title": "Global Mangrove Forests Distribution, v1 (2000)",
+        "id": "LANDSAT/MANGROVE_FORESTS"
+    },
+    {
+        "provider": "Latvia orthophotos",
+        "tags": "latvia, nrg, orthophoto",
+        "title": "Latvia Color InfraRed (CIR) orthophotos",
+        "id": "Latvia/Maamet/orthos/cir"
+    },
+    {
+        "provider": "Latvia orthophotos",
+        "tags": "latvia, orthophoto, rgb",
+        "title": "Latvia RGB orthophotos",
+        "id": "Latvia/Maamet/orthos/rgb"
+    },
+    {
+        "provider": "NASA LP DAAC at the USGS EROS Center",
+        "tags": "8_day, evapotranspiration, global, mod16a2, modis, nasa",
+        "title": "MOD16A2.061: Terra Net Evapotranspiration 8-Day Global 500m",
+        "id": "MODIS/061/MOD16A2"
+    },
+    {
+        "provider": "NASA LP DAAC at the USGS EROS Center",
+        "tags": "8_day, evapotranspiration, global, modis, nasa",
+        "title": "MOD16A2GF.061: Terra Net Evapotranspiration Gap-Filled 8-Day Global 500m",
+        "id": "MODIS/061/MOD16A2GF"
+    },
+    {
+        "provider": "Numerical Terradynamic Simulation Group, The University of Montana",
+        "tags": "8_day, evapotranspiration, global, mod16a2, modis",
+        "title": "MOD16A2: MODIS Global Terrestrial Evapotranspiration 8-Day Global 1km",
+        "id": "MODIS/NTSG/MOD16A2/105"
+    },
+    {
+        "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
+        "tags": "climate, evapotranspiration, famine, fldas, humidity, ldas, monthly, nasa, runoff, snow, soil_moisture, soil_temperature, temperature, wind",
+        "title": "FLDAS: Famine Early Warning Systems Network (FEWS NET) Land Data Assimilation System",
+        "id": "NASA/FLDAS/NOAH01/C/GL/M/V001"
+    },
+    {
+        "provider": "NASA / Climate Analytics Group",
+        "tags": "cag, climate, gddp, geophysical, ipcc, nasa, nex, precipitation, temperature",
+        "title": "NEX-GDDP-CMIP6: NASA Earth Exchange Global Daily Downscaled Climate Projections",
+        "id": "NASA/GDDP-CMIP6"
+    },
+    {
+        "provider": "NASA / GMAO",
+        "tags": "composition, forecast, geos, gmao, nasa",
+        "title": "GEOS-CF fcst tavg1hr v1: Goddard Earth Observing System Composition Forecast",
+        "id": "NASA/GEOS-CF/v1/fcst/tavg1hr"
+    },
+    {
+        "provider": "NASA GES DISC at NASA Goddard Space Flight Center",
+        "tags": "climate, geophysical, gpm, imerg, jaxa, monthly, nasa, precipitation, weather",
+        "title": "GPM: Monthly Global Precipitation Measurement (GPM) v6",
+        "id": "NASA/GPM_L3/IMERG_MONTHLY_V06"
+    },
+    {
+        "provider": "Earth Observation Group, Payne Institute for Public Policy, Colorado School of Mines",
+        "tags": "annual, dnb, eog, lights, nighttime, noaa, viirs, visible",
+        "title": "VIIRS Nighttime Day/Night Annual Band Composites V2.1",
+        "id": "NOAA/VIIRS/DNB/ANNUAL_V21"
+    },
+    {
+        "provider": "Beeldmateriaal Nederland",
+        "tags": "orthophoto, rgb, netherlands",
+        "title": "Netherlands orthophotos",
+        "id": "Netherlands/Beeldmateriaal/LUCHTFOTO_RGB"
+    },
+    {
+        "provider": "PRISM / OREGONSTATE",
+        "tags": "30_year, climate, geophysical, oregonstate, precipitation, pressure, prism, temperature, vapor, weather",
+        "title": "PRISM Long-Term Average Climate Dataset Norm91m",
+        "id": "OREGONSTATE/PRISM/Norm91m"
+    },
+    {
+        "provider": "Oxford Malaria Atlas Project",
+        "tags": "igbp, landcover, map, oxford",
+        "title": "Oxford MAP: Malaria Atlas Project Fractional International Geosphere-Biosphere Programme Landcover",
+        "id": "Oxford/MAP/IGBP_Fractional_Landcover_5km_Annual"
+    },
+    {
+        "provider": "Planet Labs Inc.",
+        "tags": "highres, pansharpened, planet, rgb, skysat",
+        "title": "Planet SkySat Public Ortho Imagery, RGB",
+        "id": "SKYSAT/GEN-A/PUBLIC/ORTHO/RGB"
+    },
+    {
+        "provider": "UCSB/CHG",
+        "tags": "chg, climate, geophysical, precipitation, ucsb, weather",
+        "title": "CHIRPS Daily: Climate Hazards Center InfraRed Precipitation With Station Data (Version 2.0 Final)",
+        "id": "UCSB-CHG/CHIRPS/DAILY"
+    },
+    {
+        "provider": "UCSB/CHG",
+        "tags": "chg, climate, geophysical, precipitation, ucsb, weather",
+        "title": "CHIRPS Pentad: Climate Hazards Center InfraRed Precipitation With Station Data (Version 2.0 Final)",
+        "id": "UCSB-CHG/CHIRPS/PENTAD"
+    },
+    {
+        "provider": "UMD/GLAD",
+        "tags": "forest, glad, global, landsat_derived, umd",
+        "title": "Primary Humid Tropical Forests",
+        "id": "UMD/GLAD/PRIMARY_HUMID_TROPICAL_FORESTS/v1"
+    },
+    {
+        "provider": "USGS",
+        "tags": "gap, landcover, landfire, usgs, vegetation",
+        "title": "USGS GAP Alaska 2001",
+        "id": "USGS/GAP/AK/2001"
+    },
+    {
+        "provider": "USGS",
+        "tags": "gap, landcover, landfire, usgs, vegetation",
+        "title": "USGS GAP CONUS 2011",
+        "id": "USGS/GAP/CONUS/2011"
+    },
+    {
+        "provider": "USGS",
+        "tags": "gap, landcover, landfire, usgs, vegetation",
+        "title": "USGS GAP Hawaii 2001",
+        "id": "USGS/GAP/HI/2001"
+    },
+    {
+        "provider": "WWF",
+        "tags": "conditioned, dem, elevation, geophysical, hydrography, hydrology, hydrosheds, srtm, topography, water, wwf",
+        "title": "WWF HydroSHEDS Hydrologically Conditioned DEM, 3 Arc-Seconds",
+        "id": "WWF/HydroSHEDS/03CONDEM"
+    },
+    {
+        "provider": "WWF",
+        "tags": "direction, drainage, flow, geophysical, hydrography, hydrology, hydrosheds, srtm, water, wwf",
+        "title": "WWF HydroSHEDS Drainage Direction, 3 Arc-Seconds",
+        "id": "WWF/HydroSHEDS/03DIR"
+    },
+    {
+        "provider": "WWF",
+        "tags": "dem, elevation, geophysical, hydrography, hydrology, hydrosheds, srtm, topography, void_filled, water, wwf",
+        "title": "WWF HydroSHEDS Void-Filled DEM, 3 Arc-Seconds",
+        "id": "WWF/HydroSHEDS/03VFDEM"
+    },
+    {
+        "provider": "WWF",
+        "tags": "accumulation, drainage, flow, geophysical, hydrography, hydrology, hydrosheds, srtm, water, wwf",
+        "title": "WWF HydroSHEDS Flow Accumulation, 30 Arc-Seconds",
+        "id": "WWF/HydroSHEDS/30ACC"
+    },
+    {
+        "provider": "WWF",
+        "tags": "conditioned, dem, elevation, geophysical, hydrography, hydrology, hydrosheds, srtm, topography, water, wwf",
+        "title": "WWF HydroSHEDS Hydrologically Conditioned DEM, 30 Arc-Seconds",
+        "id": "WWF/HydroSHEDS/30CONDEM"
+    },
+    {
+        "provider": "WWF",
+        "tags": "direction, drainage, flow, geophysical, hydrography, hydrology, hydrosheds, srtm, water, wwf",
+        "title": "WWF HydroSHEDS Drainage Direction, 30 Arc-Seconds",
+        "id": "WWF/HydroSHEDS/30DIR"
+    },
+    {
+        "provider": "Produced by Google for the Forest Data Partnership",
+        "tags": "eudr, biodiversity, conservation, crop, landuse, cocoa, plantation, pre_review",
+        "title": "Cocoa Probability model 2024a",
+        "id": "projects/forestdatapartnership/assets/cocoa/model_2024a"
+    },
+    {
+        "provider": "Land and Carbon Lab Global Pasture Watch",
+        "tags": "land, landcover, landuse, global, vegetation",
+        "title": "GPW Annual Probabilities of Cultivated Grasslands v1",
+        "id": "projects/global-pasture-watch/assets/ggc-30m/v1/cultiv-grassland_p"
+    }
+]

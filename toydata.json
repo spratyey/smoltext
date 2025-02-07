@@ -1,0 +1,41 @@
+[
+    {
+    "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/CGIAR_SRTM90_V4#terms-of-use",
+    "end_date": "2000-02-22",
+    "endyear": "2000",
+    "id": "CGIAR/SRTM90_V4",
+    "provider": "NASA/CGIAR",
+    "start_date": "2000-02-11",
+    "startyear": "2000",
+    "tags": "cgiar, dem, elevation, geophysical, srtm, topography",
+    "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/CGIAR/CGIAR_SRTM90_V4_sample.png",
+    "title": "SRTM Digital Elevation Data Version 4",
+    "type": "image"
+},
+{
+    "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/HYCOM_GLBu0_08_sea_surface_elevation#terms-of-use",
+    "end_date": "2018-12-09",
+    "endyear": "2018",
+    "id": "HYCOM/GLBu0_08/sea_surface_elevation",
+    "provider": "NOPP",
+    "start_date": "1992-10-02",
+    "startyear": "1992",
+    "tags": "elevation, hycom, nopp, ocean, ssh, water",
+    "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/HYCOM/HYCOM_GLBu0_08_sea_surface_elevation_sample.png",
+    "title": "HYCOM: Hybrid Coordinate Ocean Model, Sea Surface Elevation [deprecated]",
+    "type": "image_collection"
+},
+{
+    "asset_url": "https://developers.google.com/earth-engine/datasets/catalog/CSP_ERGo_1_0_Global_ALOS_CHILI#terms-of-use",
+    "end_date": "2011-05-13",
+    "endyear": "2011",
+    "id": "CSP/ERGo/1_0/Global/ALOS_CHILI",
+    "provider": "Conservation Science Partners",
+    "start_date": "2006-01-24",
+    "startyear": "2006",
+    "tags": "aspect, csp, elevation, ergo, geophysical, global, landforms, slope, topography",
+    "thumbnail_url": "https://developers.google.com/earth-engine/datasets/images/CSP/CSP_ERGo_1_0_Global_ALOS_CHILI_sample.png",
+    "title": "Global ALOS CHILI (Continuous Heat-Insolation Load Index)",
+    "type": "image"
+}
+]
