@@ -1,5 +1,26 @@
 [
     {
+        "provider": "AHN",
+        "tags": "ahn, dem, elevation, geophysical, lidar, netherlands",
+        "title": "AHN Netherlands 0.5m DEM, Interpolated",
+        "id": "AHN/AHN2_05M_INT",
+        "idx": 1
+    },
+    {
+        "provider": "Biopama programme",
+        "tags": "biodiversity, biopama, conservation, crop, global, landuse, palm, plantation",
+        "title": "Global Map of Oil Palm Plantations",
+        "id": "BIOPAMA/GlobalOilPalm/v1",
+        "idx": 2
+    },
+    {
+        "provider": "BNETD-CIGN",
+        "tags": "landcover, forest, classification, deforestation",
+        "title": "Cote d'Ivoire BNETD 2020 Land Cover Map",
+        "id": "BNETD/land_cover/v1",
+        "idx": 3
+    },
+    {
         "provider": "Beijng Normal University",
         "tags": "bnu, dmsp, eog, imagery, lights, nighttime, ols, visible, yearly",
         "title": "CCNL: Consistent And Corrected Nighttime Light Dataset from DMSP-OLS (1992-2013) v1",
